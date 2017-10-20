@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    background: radial-gradient(#6f5964, #230D13); 
+    width: auto;    
+    height: auto;
+
+}
+
+.header{
+    background-color: rgb(228, 228, 228);
+    width: auto;
+    height: 80px;
+    
+}
+
+.header h1{
+    font-size: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.header h2{
+    margin-left: 570px;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 25px;
+
+}
+
+.container{
+    padding-bottom: 50px;
+}
+
+
+.maincontents{
+    /* background-color: grey; */
+    width: 400px;
+    height: auto;
+    display: inline;
+}
+
+.maincontents p{
+    text-align: center;
+    /* height: 288px; */
+    font-size: 20px;
+    color: black;
+}
+
+/* .maincontents h2{
+    text-align: center;
+    margin-block-start: 30px;
+} */
+
+.maincontents img{
+   width: 450px;
+   display: inline-block;
+   vertical-align: top;
+   border: solid white 5px;
+   margin-left: 200px;
+   margin-top: 15px;
+}
+
+.aboutSec{
+    background: linear-gradient(#ebebeb, grey, #ebebeb); 
+    display: inline-block;
+    color: white;
+    width: 500px;
+    margin-bottom: 50px;
+    margin-top: 15px;
+    height: 305px;
+    vertical-align: top;
+
+}
+
+.aboutSec h2{
+    background: linear-gradient(#6d6c6c, rgb(185, 185, 185), #6d6c6c);
+    text-align: center;
+    padding: 5px;
+    
+}
+
+.aboutSec a{
+    color: black;
+}
+
+
+.subcontents{
+    background: linear-gradient(#ebebeb, grey, #ebebeb); 
+    height: 350px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 20px;
+    color: white;
+    width: 400px;
+    vertical-align: middle;
+    /* padding-left: 20px; */
+    padding-bottom: 200px;
+
+}
+
+.subcontents p{
+    color: black;
+    padding: 15px;
+}
+
+.subcontents img{
+    width: 400px;
+    display: inline-block;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+.subcontents button{
+    color: white;
+    background-color: rgb(10, 209, 150);
+    display: inline-block;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.subcontents h2{
+    text-align: center;
+    background: linear-gradient(#6d6c6c, rgb(185, 185, 185), #6d6c6c);
+    padding: 5px;
+}
+
+.subcontents h3{
+    text-align: center;
+    background: linear-gradient(#6d6c6c, rgb(185, 185, 185), #6d6c6c);
+    padding: 5px;
+}
+
+.apps1 img{
+    width:50px;
+    height: 50px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(228, 228, 228);
+}
+
+.footer img{
+    height: 20px;
+    width: 20px;
+}
+
